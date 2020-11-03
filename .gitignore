@@ -2,3 +2,4 @@
 *.ion
 NotMy
 
+__pycache__/
